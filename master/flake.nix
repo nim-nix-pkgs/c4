@@ -11,7 +11,6 @@
   inputs.src-c4-master.ref   = "refs/heads/master";
   inputs.src-c4-master.owner = "c0ntribut0r";
   inputs.src-c4-master.repo  = "cat-400";
-  inputs.src-c4-master.dir   = "";
   inputs.src-c4-master.type  = "github";
   
   inputs."msgpack4nim".owner = "nim-nix-pkgs";
